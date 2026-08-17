@@ -30,7 +30,7 @@ Many authors of diagrams fail to:
 
 Below is a new version of Title Block from what I used at my last employer.
 
-[Confluence Cloud - Park Designs > Architecture > Diagrams > Metadata > Title Block](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns/pages/9109507/Title+Block)
+~~[Confluence Cloud - Park Designs > Architecture > Diagrams > Metadata > Title Block](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns/pages/9109507/Title+Block)~~ (Free Trial expired)
 
 ![Title Block Template - Annotated](./Title-Block_annotated-100-percent.png)
 see HTML [Title Block Template - Annotated](./Title-Block.drawio_annotated.html)
