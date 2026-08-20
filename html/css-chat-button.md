@@ -1,6 +1,6 @@
 # CSS driven Chat Button
 
-I took initiative by examining the UX/UI at the time in ~2017 and clearly pointed out the pitfalls of the existing image-based chat button/invites at the time. Business did not initially like the idea.
+I took initiative by examining the UX/UI at the time in ~2017 and clearly pointed out the pitfalls of the existing image-based chat button/invites at the time. Business did not initially like the idea of moving to CSS driven button.
 
 My CSS driven chat button/invite design replaced the image-based chat button/invite, improving the UX/UI.
 
