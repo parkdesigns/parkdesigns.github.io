@@ -47,7 +47,7 @@ Benefits to Amex:
 
 ## Proposal
 
-![](./img/BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-BIMI-centurion.png)
+![](./img/BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-BIMI-centurion.png?v=2)
 
 ## Options Side-by-Side
 
