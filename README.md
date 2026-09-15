@@ -186,3 +186,7 @@ Portfolio of experience and knowledge
     * [i18n - Internationalization (button)](./activity/posts/2026-09-04-i18n-button.md)
     * [i18n - Internationalization (images)](./activity/posts/2026-09-04-i18n-images.md)
     * [Title Blocks](./activity/posts/2026-09-04-title-blocks.md)
+
+## About
+
+* [Resume / Curriculum Vitae](./resume/README.md)
